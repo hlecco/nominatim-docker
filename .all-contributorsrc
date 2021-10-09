@@ -42,7 +42,8 @@
         "infra",
         "code",
         "test",
-        "review"
+        "review",
+        "doc"
       ]
     },
     {
@@ -174,7 +175,8 @@
         "infra",
         "code",
         "test",
-        "review"
+        "review",
+        "doc"
       ]
     },
     {
@@ -288,9 +290,59 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "mogita",
+      "name": "Yun Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1173069?v=4",
+      "profile": "https://github.com/mogita",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "Stefanic",
+      "name": "Stefanic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4499284?v=4",
+      "profile": "https://github.com/Stefanic",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "xpoinsard",
+      "name": "xpoinsard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6130463?v=4",
+      "profile": "https://github.com/xpoinsard",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "Bartizan",
+      "name": "Bartizan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6322553?v=4",
+      "profile": "https://github.com/Bartizan",
+      "contributions": [
+        "code",
+        "doc",
+        "test"
+      ]
+    },
+    {
+      "login": "galewis2",
+      "name": "galewis2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62433564?v=4",
+      "profile": "https://github.com/galewis2",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 6,
   "projectName": "nominatim-docker",
   "projectOwner": "mediagis",
   "repoType": "github",
